@@ -6,7 +6,7 @@ hash = "0655f1371600922727fa66a6a3ad90ffb3a5cd9e9f851a66af048b13f3aaa3d3"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "82af948530aaa47f74cce80c6b4878b2dfb89dd0636aeae3361b0ce1240cb0a2"
+hash = "0f77db1ceaf0b3a17c401f52a6fe59352a78f1c70c97fe7479df8b058bbd2a79"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -22,7 +22,7 @@ hash = "928fdb1e604e394de7389a4b7a7f230fe6863a468e1839bee22d80652ea0d31f"
 
 [[files]]
 file = "config/vmp.properties"
-hash = "15eec0092ca5c54f97fc46953311e20e63a5eb6bca4672bfec9dae63f61cc456"
+hash = "44fa0c5ea6516c1e724f35d030a9d3ba0903298ece4687c789ca189a8351b347"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
