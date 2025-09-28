@@ -68,3 +68,8 @@ metafile = true
 file = "mods/vmp-fabric.pw.toml"
 hash = "989b6c4ff3dc08d7994667b4dfc9931a3b15876eabe4f9de7be8939153bb1fdc"
 metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "307de33f934ed9c4edd0a4465211530c2a61d36f0ead984d526271cf2ca68eb2"
+metafile = true
