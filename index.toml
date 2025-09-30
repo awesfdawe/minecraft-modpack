@@ -45,6 +45,11 @@ hash = "a63765eb780a36cd968e2777d2c20bea5e5ca3ccdd920e64964e3746cf2a7f0d"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "5e7d7f0551f95f2f496098b0eb9f3ed4d5942ce981f4eb9e1f80c1a83ef19058"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "ba94fd9dd7d5148b511c24460a281143c3a5d02b859e66732f6121aee6625f0d"
 metafile = true
